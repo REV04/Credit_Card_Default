@@ -1,4 +1,4 @@
-# Credit_Card_Default
+# Credit Card Default
 This project, "Credit Card Default Classification," is part of my Hacktiv8 coursework on classification. It serves as both a requirement for my Hacktiv8 studies and a component of my personal portfolio in Data Science. I created this project with a fictional background, made solely for the purpose of the project. You can find my other personal projects on [Richard Edgina Virgo](https://github.com/REV04).
 
 #### -- Project Status: Finished
@@ -34,6 +34,10 @@ The SVC model was selected based on the best cross-validation score using the F1
 4. url link for hugging face is being kept in Python/url.txt
 5. Credit Card Default data set is being kept in DataSet/Credit_Card_Default.csv
 6. Hugging Face deployment is being kept in deployment folder
+
+## Featured Notebooks/Analysis/Deliverables
+
+- [Hugging Face for model usage demonstration](https://huggingface.co/spaces/REV04/Credit_Card_Default_Richard)
 
 ## Contact
 
